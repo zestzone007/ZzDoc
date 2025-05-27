@@ -1,3 +1,3 @@
 README
 
-this repos is about someprograming books.
+this repos is about some programing books.
